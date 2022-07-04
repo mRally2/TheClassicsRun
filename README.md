@@ -44,6 +44,7 @@
       <li>The replacement of the string "PRESS ENTER (TO BEGIN)" works only if you launch the game with keyboard controls</li>
       <li>Some customization parts might not look right due to the default position set for the original vehicles they were meant for</li>
       <li>Some events might not be possible to complete if chosen a lower-performance vehicle and the AI was given very high-performance ones or if you went to the gas station for a hot-swap</li>
+      <li>Cannot enter individual stages using the front end menu since the garage will appear as empty</li>
       <li>If a vehicle is not customized then it might’ve been Cheat Engine omitting its particular script. Restart both, the game and the trainer</li>
       <li>Because of how Cheat Engine trainers work, if you close its window you will still have all scripts that got enabled in the first place. In order to disable them all, you must do it manually by killing all instances of the trainer in the Task Manager<br></li>
    </ul>
