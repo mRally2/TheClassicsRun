@@ -9,7 +9,7 @@
    <ul>
       <li>AI opponents drive Tier 1 &amp; 2 during Stage 1, 2 &amp; 3</li>
       <li>AI opponents drive Tier 3 &amp; 4 from Stage 4 to 9</li>
-      <li>AI opponents drive Tier 5 &amp; 5 from Stage 9 to 10</li>
+      <li>AI opponents drive Tier 5 &amp; 6 from Stage 9 to 10</li>
       <li>Gas stations provide you with Tier 1 &amp; 2 stock and custom vehicles from Yosemite Approach to Las Vegas East cop chase</li>
       <li>Gas stations provide you with Tier 3 stock and custom vehicles from Death Valley uphill race to Million Dollar Highway cop chase</li>
       <li>Gas stations provide you with Tier 4 stock and custom vehicles from Mountain Interstate offroad crash cutscene to Uri Car Select</li>
